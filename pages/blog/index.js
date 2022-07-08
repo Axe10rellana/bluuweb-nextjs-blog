@@ -1,9 +1,6 @@
 //importaciones
 import Link from "next/link";
 
-//helpers
-//import { helpHttp } from "../../helpers/helpHttp";
-
 //componente layout
 import Layout from "../../components/Layout";
 

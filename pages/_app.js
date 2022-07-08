@@ -1,5 +1,3 @@
-//importaciones
-
 //estilos css
 import "../styles/globals.css";
 

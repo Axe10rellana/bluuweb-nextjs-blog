@@ -1,5 +1,3 @@
-//importaciones
-
 //componente layout y variables del layout
 import Layout from "../components/Layout";
 

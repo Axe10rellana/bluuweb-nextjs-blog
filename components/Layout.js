@@ -9,7 +9,6 @@ import utilStyles from "../styles/utils.module.css";
 
 //variables iniciales
 const name = "Naturaleza";
-//export const siteTitle = "Next.js Sample Website";
 
 const Layout = ({ children, title, description, home }) => {
   return (
@@ -17,7 +16,7 @@ const Layout = ({ children, title, description, home }) => {
       <Head>
         <title>{title}</title>
         <meta name="description" content={description} />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/favicon.png" />
       </Head>
       <header className={styles.header}>
         {home ? (
